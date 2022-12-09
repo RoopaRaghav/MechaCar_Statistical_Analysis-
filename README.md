@@ -67,6 +67,7 @@ The variance for the total manufacturing lot is 62 < 100, which is within the ex
 From our first t-test, we can see the sample mean is not statistically different from the population mean of 1500 PSI with a p-value of 0.06.
 
 However, when we perform t-tests on the individual lots, we can see that although lots 1 and 2 are not statistically different from the population mean with p-values of 1 and 0.6 respectively, lot 3 does have a mean which is statistically different from the population mean with a p-value of 0.04.
+![tTestOutput](https://user-images.githubusercontent.com/111100908/206616831-8f41e78c-cc90-4b71-b656-2c2387f0c4cd.png)
 
 ## Study Design: MechaCar vs Competition
 When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, or safety rating.
